@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:id="@+id/nav_home"
+    android:icon="@drawable/ic_home_black_24dp"
+    android:color="#CE1B27"
+    android:title="Home" />
+
+<item
+    android:id="@+id/nav_movie"
+    android:icon="@drawable/ic_movie"
+    android:iconTint="#CE1B27"
+    android:title="Movie" />
+
+<item
+    android:id="@+id/nav_web_series"
+    android:icon="@drawable/ic_web_series"
+    android:iconTint="#CE1B27"
+    android:title="Web_series" />
+
+    <item
+        android:id="@+id/nav_explore"
+        android:icon="@drawable/ic_explore"
+        android:iconTint="#CE1B27"
+        android:title="Explore" />
+
+</menu>

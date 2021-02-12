@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="882828dc-56bb-4eba-abf8-786230bdaad1" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="DefaultGradleProjectSettings">
+        <option
+            name="isMigrated"
+            value="true" />
+    </component>
+    <component
+        name="ExecutionTargetManager"
+        SELECTED_TARGET="35a4f0ea0104" />
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file
+                current-in-tab="true"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/build.gradle">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="-388" />
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/build.gradle">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="187">
+                            <caret
+                                column="72"
+                                line="11"
+                                selection-end-column="72"
+                                selection-end-line="11"
+                                selection-start-column="72"
+                                selection-start-line="11" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component name="FileTemplateManagerImpl">
+        <option name="RECENT_TEMPLATES">
+            <list

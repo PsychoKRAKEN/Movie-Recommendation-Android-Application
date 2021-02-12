@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "573190713675",
+    "firebase_url": "https://movieflix-3aa05.firebaseio.com",
+    "project_id": "movieflix-3aa05",
+    "storage_bucket": "movieflix-3aa05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573190713675:android:93f23b2d7176b93da078ce",
+        "android_client_info": {
+          "package_name": "com.example.movieflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573190713675-ofdn452b3i2rnv8n4fadhet1b9hgmqm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movieflix",
+            "certificate_hash": "f7d29726b202d7cdf534909f45904bc49bf5768f"
+          }
+        },
+        {
+          "client_id": "573190713675-4d54v6edgd5nk2utvojfedas4bmojopc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHsoz1OZ44hXcqwU_JW-gpgg7sCg04Z1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573190713675-4d54v6edgd5nk2utvojfedas4bmojopc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573190713675:android:caf9798d21b41d6da078ce",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573190713675-2ur2a6gkskn3u34gjdt8livdfmuroqcg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "f7d29726b202d7cdf534909f45904bc49bf5768f"
+          }
+        },
+        {
+          "client_id": "573190713675-4d54v6edgd5nk2utvojfedas4bmojopc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHsoz1OZ44hXcqwU_JW-gpgg7sCg04Z1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573190713675-4d54v6edgd5nk2utvojfedas4bmojopc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
